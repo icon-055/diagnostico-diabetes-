@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-import numpy as np
 
 # Função para carregar o modelo
 def load_model():
